@@ -8,7 +8,7 @@ Created dashboard based on dataset which in available on Kaggle.  This interacti
 -> Clean data & deal with missing values in Excel format
 -> Data Visualization
 
-# Netfli-Analysis Dashboard:
+# Netflix-Analysis Dashboard:
 1. User can search for movies or Tv shows and they will able to see further related data on dashboard succh as released year, duration , rating.
 2. Dashboard is able to provide top genre's and total ratings from the dataset.
 3. Dashboard is able to provide portion of Movies & TV shows using pie charts.
@@ -16,5 +16,6 @@ Created dashboard based on dataset which in available on Kaggle.  This interacti
 
 ![image](https://github.com/Mousmi-Dave/Netflix-Analysis/assets/78130196/33081c76-0bef-49b5-8fc9-d9546974ecf7)
 
-
+# Note:
+All the files, datasets, workbooks, and icons have been uploaded above. If you find value in this project and dashboard, consider giving it a star or sharing your feedback. Your support would be greatly appreciated and will bring a sense of satisfaction! :)
 
