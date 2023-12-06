@@ -1,2 +1,2 @@
 # Netflix-Analysis
-Created dashboard based on dataset which in available on Kaggle.  This interactive dashboard is designed to empower users to explore Netflix's extensive collection of movies and TV shows. 
+Created dashboard based on dataset which in available on Kaggle.  This interactive dashboard is designed to empower users to explore Netflix's extensive collection of movies and TV shows. By providing a user-friendly interface, it allows users to search for their preferred content, displaying essential details such as rating, duration, genre, release date, added date, and a brief description.
