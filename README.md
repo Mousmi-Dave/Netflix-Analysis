@@ -4,9 +4,9 @@
 Created dashboard based on dataset which in available on Kaggle.  This interactive dashboard is designed to empower users to explore Netflix's extensive collection of movies and TV shows. By providing a user-friendly interface, it allows users to search for their preferred content, displaying essential details such as rating, duration, genre, release date, added date, and a brief description.
 
 # Step:
--> Fetch Data from Kaggle
--> Clean data & deal with missing values in Excel format
--> Data Visualization
+1. Fetch Data from Kaggle
+2. Clean data & deal with missing values in Excel format
+3. Data Visualization
 
 # Netflix-Analysis Dashboard:
 1. User can search for movies or Tv shows and they will able to see further related data on dashboard succh as released year, duration , rating.
